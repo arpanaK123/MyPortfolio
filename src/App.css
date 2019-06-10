@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  color: blueviolet;
+  height: 100%;
+}
+.background {
+  background-image: url("/blockchain.jpg");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  width: 250px;
+  height: 70%
+  
+  }
+  
+  .centered {
+      position: absolute;
+      top: 35%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 40px;
+    }
+p {
+      background-color: rgb(230, 112, 112);
+      padding: 15px;
+      font-size: 30px;
+      box-shadow: 10px 10px 5px grey;  
+     }
+
+.border1 {
+    float: left;
+    margin: 30px;
+    width: 20%;
+    height: 200px;
+    margin-left:40px;
+    padding: 50px;
+    background-color: rgb(192, 240, 243);
+    box-shadow: 20px 20px 10px grey;
+
+  }
+ 
